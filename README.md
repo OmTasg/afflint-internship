@@ -8,7 +8,8 @@ at [Afflint Advsiors](https://afflint.com).
 These are the goals I came up with my manager for the internship.
 
 #### Learn background
-- Understand financial goals that people have 
+- [Understand the financial health of US population](docs/background/financial-health.md)
+- [Understand financial goals that people have](docs/financial-goals.md) 
 - How to measure success for these goals
 - Learn about different techniques for different goals
 - Learn common terms of the trade
