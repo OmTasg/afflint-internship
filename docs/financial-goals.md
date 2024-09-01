@@ -1,4 +1,4 @@
-[Home](../README.md) > Background
+[Home](../README.md) > Financial Goals
 
 # What financial goals do people have?
 
@@ -41,4 +41,4 @@ Through my research, I’ve discovered that people have a wide range of financia
 - “Top 10 Ways to Prepare for Retirement (PDF).” *U.S. Department of Labor*, September 2023, https://www.dol.gov/sites/dolgov/files/EBSA/about-ebsa/our-activities/resource-center/publications/top-10-ways-to-prepare-for-retirement.pdf. Accessed 24 June 2024\.
 
 
-[Home](../README.md) > Background
+[Home](../README.md) > Financial Goals

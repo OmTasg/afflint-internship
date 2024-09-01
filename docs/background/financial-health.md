@@ -38,7 +38,7 @@ Many respondents specifically mentioned the rising cost of food and groceries as
 ## Work Referenced:
 “Overall Financial Well-Being.” The Fed - Overall Financial Well-Being, https://www.federalreserve.gov/publications/2024-economic-well-being-of-us-households-in-2023-overall-financial-well-being.htm, Accessed 30 June 2024. 
 
-[Home](../../README.md) > [Financial Goals](../financial-goals.md) > Financial Health
+[Home](../../README.md) > Financial Health
 
 
 
