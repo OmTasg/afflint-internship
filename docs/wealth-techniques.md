@@ -9,7 +9,7 @@ However, in order to build wealth from any of the techniques below, it is necess
 2. [Investing in Gold](background/wealth-techniques/gold-investing.md)
 3. [Investing in Bonds](background/wealth-techniques/bonds-investing.md)
 4. [Investing in Funds](background/wealth-techniques/funds-investing.md)
-5. [Investing in Real Estate](background/wealth-techniques/estate-investing)
+5. [Investing in Real Estate](background/wealth-techniques/estate-investing.md)
 
 
 ## Works Referenced  
