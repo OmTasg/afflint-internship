@@ -10,8 +10,8 @@ These are the goals I came up with my manager for the internship.
 #### Learn background
 - [Understand the financial health of US population](docs/background/financial-health.md)
 - [Understand financial goals that people have](docs/financial-goals.md) 
-- [Learn about different techniques for different goals](docs/wealth-techniques.md)
-- How to measure success for these goals
+- [Learn about techniques to grow wealth](docs/wealth-techniques.md)
+- [How to measure success for these goals](docs/background/measure-success.md)
 - Learn common terms of the trade
 
 #### Practice

@@ -33,14 +33,25 @@
     - Thousands of value mutual funds and exchange-traded funds (ETFs) offer shares in baskets of stocks thought to be undervalued. For example, the Russell 1000 Value Index is a popular benchmark for value investors, and several mutual funds track this index.  
     - Be patient. Be prepared to wait, as it might take time for the market to correct and recognize the stock’s true value.   
   - **Risks**: Value companies are often hard to find. Value stocks may remain undervalued for longer than anticipated, and some may never reach their expected value, leading to underperformance compared to the broader market.  
-- **Technique 3: Momentum Investing**  
+
+- **Technique 3: Systematic Investing**
+  - More info [here](https://www.blackrock.com/us/individual/investment-ideas/systematic-investing)
+  - **Overview:** Systematic investing involves following a disciplined, rules-based approach to investing. Instead of relying on emotions or predictions, investors set clear criteria for when to buy, hold, or sell investments, often using algorithms or preset strategies to execute trades. The focus is on long-term consistency rather than market timing.
+  - **How to Implement:**
+     - Set clear, predefined rules for investment decisions. This could include criteria based on metrics like price-to-earnings ratio, dividend yield, or moving averages.
+    - Automate your trading process where possible. Utilize automated tools or algorithms to follow through on your investment strategy consistently without emotional interference.
+    - Diversify your portfolio across different asset classes or industries to reduce risk, as systematic investing tends to work better over long periods when applied to a variety of markets.
+  - **Risks:** Systematic investing can sometimes lag during volatile markets where flexibility might be required. If the strategy isn’t properly optimized, the mechanical nature of this approach can lead to missed opportunities or exaggerated losses during extreme market conditions.
+
+- **Technique 4: Momentum Investing**  
   - **Overview:** Momentum trading involves finding trends on the market and riding them. The core idea is that stocks that have been performing well will continue to do so in the near future, while those that are underperforming will continue to fall.   
   - **How to Implement:**  
     - Do technical analysis. Use a data-driven approach to look for patterns in stock prices to guide your purchasing decisions. Look for trends in stocks showing strong upwards or downwards trends.  
     - Time your entry/exit well. Use technical analysis to determine the perfect entry and exit points to capitalize on the momentum of the stock and maximize profit.   
     - Make sure to continually monitor your investments as momentum investing requires quick decisions in response to market changes.   
   - **Risks:** Momentum trading carries significant risks due to its reliance on market volatility, where rapid price changes can lead to substantial losses if trades are not timed correctly. Additionally, it requires constant monitoring, as unexpected market shifts can quickly erode profits or increase losses.   
-- **Technique 4: Index Investing**  
+
+- **Technique 5: Index Investing**  
   - **Overview**: Index investing involves buying shares of index funds or ETFs that track a market index, such as the S\&P 500\. This strategy aims to replicate the performance of the broader market. It provides broad diversification and reduces the risk associated with individual stock picking. Over time, most actively managed funds fail to outperform the market, making index investing a popular choice.  
   - **How to Implement:**  
     - Choose an Index Fund: Select an index fund or ETF that tracks a broad market index, such as the S\&P 500, NASDAQ, or Dow Jones.  
